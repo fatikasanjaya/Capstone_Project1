@@ -8,6 +8,7 @@ This application is the result of a Python project created as part of Module 1 C
 The application uses dummy data and not connected to a database, serving purely as a programming exercise to understand the basics of Python. Additionally, it utilizes two Python libraries:
 - **Tabulate:** for displaying data in structured table form.
 - **PyInputPlus:** for taking user input while validating and handling various input errors.
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/8bddb4996a7c1b6f49a0e85cc4589148914ddcba/image/library.png)
 
 ## Features
 
@@ -26,29 +27,29 @@ Data Editing (Update Menu)
 ## Implementation
 
 ### Data Display (Read Menu)
-
 Main Menu View
+
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/8bddb4996a7c1b6f49a0e85cc4589148914ddcba/image/main_menu.png)
 - When the user selects option "1" from the main menu, the application displays a submenu to view patient data.
-  
-
-#### Read Menu Feature
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/read_menu.png)
 - Submenu 2 displays specific data based on user input, such as patient ID.
-
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/read%20data%20by%20id.png)
 ### Data Addition (Create Menu)
-
-#### Adding Inpatient Patient Data
-- Users are prompted to fill in the primary key / patient ID and proceed by entering new patient information.
+- Adding Inpatient Patient Data
+  Users are prompted to fill in the primary key / patient ID and proceed by entering new patient information.
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/create_menu.png)
 
 ### Data Deletion (Delete Menu)
-
 #### Deleting Patient Data
-- Users can delete patient data by entering the patient ID. Additionally, there is a feature for data restoration.
+- Users can delete patient data by entering the patient ID. 
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/delete_menu.png)
+- Additionally, there is a feature for data restoration.
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/restore_data.png)
 
 ### Data Editing (Update Menu)
+- For editing patient data, users can edit patient data based on the column they want to change.
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/update_menu.png)
 
-#### Editing Patient Data
-- Users can edit patient data based on the column they want to change.
 
 ## Conclusion
-
 The development of this patient data management application is an important step in improving operational efficiency and data integrity at TrueCare Hospital. By providing user-friendly tools to manage patient records, this application empowers healthcare institutions to provide optimal care while maintaining careful attention to patient data management.
