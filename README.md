@@ -1,9 +1,12 @@
 # Capstone Project 1
 # TrueCare Hospital Patient Data Management Application
 
-This application is the result of a Python project created as part of Module 1 Capstone Project at Purwadhika Digital School in the Data Science program. It aims to implement basic CRUD (Create, Read, Update, Delete) functions for managing hospital patient data. 
+Please read this before you proceed to run the application
+
+This Python project was created to fulfill the Capstone Project Module 1, which involves the implementation of fundamental Python learning from the Digital Science course by Purwadhika Digital School. It aims to implement basic CRUD (Create, Read, Update, Delete) functions for managing hospital patient data.
 
 ## Introduction
+In the world of healthcare administration, the ability to access, update, and manage patient data efficiently is crucial. Recognizing this need, I initiated the development of an application tailored for the inpatient department at TrueCare Hospital. This application serves as a centralized platform for administrators responsible for overseeing inpatient admissions, providing them with a user-friendly interface to navigate patient data seamlessly.
 
 The application uses dummy data and not connected to a database, serving purely as a programming exercise to understand the basics of Python. Additionally, it utilizes two Python libraries:
 - **Tabulate:** for displaying data in structured table form.
