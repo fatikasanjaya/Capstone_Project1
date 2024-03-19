@@ -45,9 +45,11 @@ Main Menu View
 ### Data Deletion (Delete Menu)
 #### Deleting Patient Data
 - Users can delete patient data by entering the patient ID. 
-![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/delete_menu.png)
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/delete%20by%20id.png)
 - Additionally, there is a feature for data restoration.
-![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/restore_data.png)
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/restore%20data.png)
+- There's also an option to permanently delete all patient data
+![Alt text](https://github.com/fatikasanjaya/Capstone_Project1/blob/main/image/delete%20all%20data.png)
 
 ### Data Editing (Update Menu)
 - For editing patient data, users can edit patient data based on the column they want to change.
